@@ -16,14 +16,15 @@
 ## Things I recommend installing, for future projects
 - [nodejs](https://nodejs.org/es/) - Node.js® is a JavaScript runtime built on V8, Chrome's JavaScript engine.
 
+## Recommendations
+- know how to use nvim.
+
 Continue the guide linearly and it is very likely that you will not have problems.
 
 > `WARNING:` You may have to upgrade the PSReadLine module version to 2.2.2
 
-
 # Install 🛠️
-
-Descargar powershell de Microsoft Store:
+Download powershell from Microsoft Store:
 
 ![powershell screenshot](./images/download-powershell.png)
 
@@ -61,7 +62,6 @@ iwr -useb get.scoop.sh | iex
 ```
 scoop install neovim gcc
 ```
-
 ## **Modules:**
 ```
 Install-Module posh-git -Scope CurrentUser -Force
@@ -84,7 +84,6 @@ Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -Skip
 Install-Module -Name PSFzf -Scope CurrentUser -Force
 ```
 ## **With scoop**
-
 ### **oh-my-posh**
 ```
 scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
@@ -93,7 +92,6 @@ scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/downl
 ```
 scoop install fzf
 ```
-
 # How to use
 Abre powershell y lanza:
 ```
@@ -111,4 +109,7 @@ Directory: C:\Users\oberon\.config\powershell
 - oh-my-posh
 - powershell
 
-Tendras que abrir de nuevo una sesión para ver los cambios
+> `INFO: ` Tendras que abrir de nuevo una sesión para ver los cambios
+
+# About me
+- [Blog](https://abienvenido.ddns.net/) -Blog under construction with varied content: Software, Hardware, Cybersecurity...
