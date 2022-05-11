@@ -111,5 +111,18 @@ Directory: C:\Users\oberon\.config\powershell
 
 > `INFO: ` Tendras que abrir de nuevo una sesión para ver los cambios
 
+# What does all this offer you:
+- Autocompletado con historico en lista por comando o escrito en linea
+    ![powershell screenshot](./images/screenshot-4.png)
+    
+- Busqueda en lista de los directorios asistidos y comandos usados
+    ![powershell screenshot](./images/screenshot-5.png)
+    ![powershell screenshot](./images/screenshot-6.png)
+
+- Salto entre directorios
+    ![powershell screenshot](./images/screenshot-6.png)
+
+- Mejor legibilidad a la hora de interactuar con la terminal y tu repositorio usando git
+
 # About me
 - [Blog](https://abienvenido.ddns.net/) -Blog under construction with varied content: Software, Hardware, Cybersecurity...
