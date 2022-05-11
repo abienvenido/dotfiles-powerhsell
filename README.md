@@ -115,7 +115,7 @@ Directory: C:\Users\oberon\.config\powershell
 - oh-my-posh
 - powershell
 
-> `INFO: ` Tendras que abrir de nuevo una sesión para ver los cambios
+> `INFO: ` You will have to open a session again to see the changes
 
 # What does all this offer you:
 - Autocomplete with history in list by command or written online
