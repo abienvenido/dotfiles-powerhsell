@@ -93,7 +93,7 @@ scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/downl
 scoop install fzf
 ```
 # How to use
-Abre powershell y lanza:
+Open powershell and run:
 ```
 nvim $PROFILE.CurrentUserCurrentHost
 ```
