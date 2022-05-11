@@ -54,11 +54,11 @@ If it returns False, then we need to create the profile first, type:
 New-Item -Path $profile -Type File -Force
 ```
 
-**Instalar scoop:**
+**Install scoop:**
 ```
 iwr -useb get.scoop.sh | iex
 ```
-**Instalar neovim:**
+**Install neovim:**
 ```
 scoop install neovim gcc
 ```
