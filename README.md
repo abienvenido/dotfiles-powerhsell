@@ -93,6 +93,12 @@ scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/downl
 scoop install fzf
 ```
 # How to use
+Create the powershell script, on path and mostly empty.
+Later, you can replace it or copy the content of the script that this project has.
+This is so, so that you do not add it to the file that comes in this project, since you will get errors.
+```
+Directory: C:\Users\oberon\.config\powershell\user_profile.ps1
+```
 Open powershell and run:
 ```
 nvim $PROFILE.CurrentUserCurrentHost
