@@ -34,8 +34,10 @@ Download powershell from Microsoft Store:
     - powershell
         - #config file
         - user_profile.ps1
-        - #prompt customizations
-        - my.omp.json
+    - oh-my-posh
+        - themes
+            - #prompt customizations
+            - my.omp.json
 ```
 
 **Install the font:**
