@@ -30,14 +30,14 @@ Download powershell from Microsoft Store:
 
 # Directory structure
 ```
-- $env:USERPROFILE\.config
-    - powershell
-        - #config file
-        - user_profile.ps1
-    - oh-my-posh
-        - themes
-            - #prompt customizations
-            - my.omp.json
+│── $env:USERPROFILE\.config
+    │── powershell
+    |   │── #config file
+    |   └── user_profile.ps1
+    └── oh-my-posh
+        └── themes
+            │── #prompt customizations
+            └── my.omp.json
 ```
 
 **Install the font:**
